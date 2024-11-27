@@ -3,7 +3,7 @@
 ### Membres du groupe
 * OUEDRAOGO ISSIAKA , Tel: 73382282
 * COMPAORE T. Fabrice Gautier, Tel: 65318139
-* COMPAORE Salimata
+* COMPAORE Salimata, Tel: 61429904
 
 
 ## *Description du projet*
@@ -37,6 +37,7 @@ Le projet est organisé en plusieurs fichiers pour une meilleure structuration :
 
 
 ## *Instructions d'installation et d'exécution*
+* cloner le projet : **git clone https://github.com/OUEDRAOGO456/GestionContacts.git**
 * deziper le fichier **GestionContacts**
 * executer directemrnt le **code compiler (GestionContacts.exe)** se trouvant dans bin/Debug
 * ou bien ouvrir **le projet (GestionContacts.cbp)** via codeblocks puis compiler et executer
