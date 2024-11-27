@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1732703425 source:c:\users\user\desktop\projet_3\gestioncontacts\main.cpp
+	<iostream>
+	"Contacts.h"
+
+1732700421 c:\users\user\desktop\projet_3\gestioncontacts\include\contacts.h
+	<vector>
+	<string>
+
+1732704085 source:c:\users\user\desktop\projet_3\gestioncontacts\src\contacts.cpp
+	"Contacts.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
